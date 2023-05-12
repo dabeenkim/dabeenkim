@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekqls6812@naver.com&langs_count=8)](https://github.com/ekqls6812@naver.com/github-readme-stats)
 <!--
 **dabeenkim/dabeenkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
