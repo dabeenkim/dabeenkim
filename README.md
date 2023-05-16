@@ -11,5 +11,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekqls6812@naver.com)](https://github.com/ekqls6812@naver.com/github-readme-stats)
 
-![snake gif](https://github.com/ekqls6812@naver.com/ekqls6812@naver.com/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dabeenkim/dabeenkim/blob/output/github-contribution-grid-snake.svg)
 
