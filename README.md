@@ -9,7 +9,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdabeenkim&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23181717&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekqls6812@naver.com)](https://github.com/ekqls6812@naver.com/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabeenkim)](https://github.com/ekqls6812@naver.com/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dabeenkim=anuraghazra&show_icons=true&theme=transparent)
 
 ![snake gif](https://github.com/dabeenkim/dabeenkim/blob/output/github-contribution-grid-snake.svg)
 
