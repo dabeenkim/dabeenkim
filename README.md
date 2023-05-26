@@ -10,7 +10,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabeenkim)](https://github.com/ekqls6812@naver.com/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dabeenkim=anuraghazra&show_icons=true&theme=transparent)
 
 ![snake gif](https://github.com/dabeenkim/dabeenkim/blob/output/github-contribution-grid-snake.svg)
 
