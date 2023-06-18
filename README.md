@@ -13,5 +13,5 @@
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekqls6812)](https://solved.ac/ekqls6812/) -->
 
-![snake gif](https://github.com/dabeenkim/dabeenkim/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/dabeenkim/dabeenkim/blob/output/github-contribution-grid-snake.svg) -->
 
